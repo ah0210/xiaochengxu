@@ -47,3 +47,5 @@
     })
 
 这样能够使得取得数据但不会增加栈中的元素个数，减少navigateTo的使用
+
+http://www.wxapp-union.com/article-2942-1.html
